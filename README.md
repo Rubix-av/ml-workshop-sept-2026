@@ -66,9 +66,9 @@ You can run the application either directly with Python or via Docker.
    ```
 
 5. **Access the application:**
-   - **Interactive Web UI:** [http://localhost:8000/test](http://localhost:8000/test)
-   - **Interactive API Docs (Swagger):** [http://localhost:8000/docs](http://localhost:8000/docs)
-   - **Health Check:** [http://localhost:8000/health](http://localhost:8000/health)
+   - **Interactive Web UI:** [https://ml-workshop-sept-2026.onrender.com/test](https://ml-workshop-sept-2026.onrender.com/test)
+   - **Interactive API Docs (Swagger):** [https://ml-workshop-sept-2026.onrender.com/docs](https://ml-workshop-sept-2026.onrender.com/docs)
+   - **Health Check:** [https://ml-workshop-sept-2026.onrender.com/health](https://ml-workshop-sept-2026.onrender.com/health)
 
 ---
 
